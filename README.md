@@ -1,3 +1,3 @@
 # Introduction of networking and its practices
 # Packet Tracer
-Setup DCHP, Server, Router, Switch to build a virtual network
+Setup DCHP, DNS, Router, Switch to build a virtual network
